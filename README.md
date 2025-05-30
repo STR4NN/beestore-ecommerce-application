@@ -37,16 +37,15 @@ Ainda não está funcional, mas a estrutura está sendo construída e organizada
 
 ## 🧪 Tecnologias Planejadas
 
-- **Java 17**
+- **Java 21**
 - **Spring Boot**
 - **Spring Data JPA (Hibernate)**
 - **Spring Security (com BCrypt)**
-- **MySQL ou PostgreSQL**
+- **PostgreSQL**
 - **Lombok**
 - **Swagger (documentação)**
-- **ModelMapper**
 - **Maven**
-- *(opcional)* Front-end com React
+-  Front-end com React
 
 ---
 
